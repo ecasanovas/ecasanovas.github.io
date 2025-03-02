@@ -48,12 +48,12 @@ profiles:
 #  - Computational Linguistics
 #  - Information Retrieval
 
-education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-  - area: MEng Artificial Intelligence
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+#education:
+#  - area: PhD Artificial Intelligence
+#    institution: Stanford University
+#  - area: MEng Artificial Intelligence
+#  - area: BSc Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
    
 work:
   - position: Director of Cloud Infrastructure
