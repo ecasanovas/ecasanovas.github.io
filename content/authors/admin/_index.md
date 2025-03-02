@@ -2,9 +2,6 @@
 # Display name
 title: Elena Casanovas
 
-# Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
-
 # Full name (for SEO)
 first_name: Elena 
 last_name: Casanovas
