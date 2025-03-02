@@ -33,7 +33,7 @@ header:
     blox: "navbar"
     fixed_to_top: true
     align: "right"
-    show_search: true
+    show_search: false
     show_theme_chooser: true
     logo:
       text: "Elena Casanovas"
