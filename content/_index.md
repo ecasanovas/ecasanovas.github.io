@@ -36,7 +36,7 @@ sections:
       title: 'Research'
       subtitle: ''
       text: |-
-        Papers in early stages go here
+        Papers go here
     design:
       columns: '1'
   - block: markdown
