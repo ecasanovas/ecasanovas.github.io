@@ -36,10 +36,10 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-  #  url: https://www.instagram.com/
-  #- icon: brands/github
-  #  url: https://github.com/gcushen
-  #- icon: brands/linkedin
+    url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/gcushen
+  - icon: brands/linkedin
   #  url: https://www.linkedin.com/
   #- icon: academicons/google-scholar
   #  url: https://scholar.google.com/
