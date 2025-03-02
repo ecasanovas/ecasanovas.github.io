@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Elena Casanovas
+title: Elena Casanovas- me :) 
 
 # Full name (for SEO)
 first_name: Elena 
