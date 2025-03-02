@@ -1,14 +1,10 @@
 ---
 # Display name
-title: Elena Casanovas- me!
+title: Elena Casanovas
 
 # Full name (for SEO)
 first_name: Elena 
 last_name: Casanovas
-
-# Status emoji
-# status:
-  # icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
