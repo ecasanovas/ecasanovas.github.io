@@ -44,7 +44,7 @@ profiles:
 #  - area: BSc Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
    
-#work:
+# work:
 #  - position: Director of Cloud Infrastructure
 #    company_name: GenCoin
 #    company_url: ''
@@ -54,7 +54,7 @@ profiles:
 
 
 # Skills
-#skills:
+# skills:
 #  - name: Technical Skills
 #    items:
 #      - name: Python
