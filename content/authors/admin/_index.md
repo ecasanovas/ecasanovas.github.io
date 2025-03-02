@@ -89,4 +89,6 @@ awards:
 
 ## About Me
 
-My bio goes here.
+I am a PhD student in Economics at University College London, supervised by Vincent Sterk and Morten Ravn. 
+
+My research interests are in macroeconomics, in particular in firm dynamics and labor markets. 
