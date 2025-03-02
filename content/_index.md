@@ -34,7 +34,7 @@ sections:
     id: research
     content:
       title: 'Research'
-      subtitle: 'Work in Progress'
+      subtitle: ''
       text: |-
         Papers in early stages go here
     design:
