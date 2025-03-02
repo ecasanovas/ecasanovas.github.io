@@ -87,7 +87,7 @@ awards:
   
 ---
 
-## About Me
+## Welcome!
 
 I am a PhD student in Economics at University College London, supervised by [Vincent Sterk](https://www.homepages.ucl.ac.uk/~uctpvst/index.htm) and [Morten Ravn](https://sites.google.com/view/mortenoravn/home). 
 
