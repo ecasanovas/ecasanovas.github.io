@@ -35,8 +35,8 @@ sections:
     content:
       title: 'Research'
       subtitle: ''
-      text: |-
-        Papers go here
+      # text: |-
+      # Papers go here
     design:
       columns: '1'
   - block: markdown
@@ -44,8 +44,8 @@ sections:
     content:
       title: 'Teaching'
       subtitle: ''
-      text: |-
-        Teaching goes here
+      # text: |-
+        # Teaching goes here
     design:
       columns: '1'  
   - block: markdown
@@ -53,8 +53,8 @@ sections:
     content:
       title: 'CV'
       subtitle: ''
-      text: |-
-        Will add link to CV
+      # text: |-
+       # Will add link to CV
     design:
       columns: '1'             
 ---
