@@ -26,7 +26,7 @@ organizations:
 
 # Social network links
 profiles:
-  - icon: at-symbol
+  - icon: envelope
     url: 'mailto:elena.casanovas.21@ucl.ac.uk'
     label: E-mail Me
   #- icon: brands/x
