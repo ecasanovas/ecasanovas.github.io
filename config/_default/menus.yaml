@@ -14,7 +14,7 @@ main:
     url: /#teaching
     weight: 12
   - name: CV
-    url: /#news
+    url: /#cv
     weight: 13
   #- name: Resources
   # url: experience/
