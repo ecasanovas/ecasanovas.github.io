@@ -35,7 +35,7 @@ sections:
     content:
       title: 'Research'
       subtitle: ''
-      # text: |-
+      text: |-
       # Papers go here
     design:
       columns: '1'
@@ -44,7 +44,7 @@ sections:
     content:
       title: 'Teaching'
       subtitle: ''
-      # text: |-
+      text: |-
         # Teaching goes here
     design:
       columns: '1'  
@@ -53,7 +53,7 @@ sections:
     content:
       title: 'CV'
       subtitle: ''
-      # text: |-
+      text: |-
        # Will add link to CV
     design:
       columns: '1'             
