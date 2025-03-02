@@ -30,31 +30,31 @@ sections:
           # size: cover
           # position: center
           # parallax: false
-  - block: markdown
-    id: research
-    content:
-      title: 'Research'
-      subtitle: ''
-      text: |-
-        Papers go here
-    design:
-      columns: '1'
-  - block: markdown
-    id: teaching
-    content:
-      title: 'Teaching'
-      subtitle: ''
-      text: |-
-        Teaching goes here
-    design:
-      columns: '1'  
-  - block: markdown
-    id: cv
-    content:
-      title: 'CV'
-      subtitle: ''
-      text: |-
-        Will add link to CV
-    design:
-      columns: '1'             
+  #- block: markdown
+  #  id: research
+  #  content:
+  #    title: 'Research'
+  #    subtitle: ''
+  #    text: |-
+  #      Papers go here
+  #  design:
+  #    columns: '1'
+  #- block: markdown
+  #  id: teaching
+  #  content:
+  #    title: 'Teaching'
+  #    subtitle: ''
+  #    text: |-
+  #      Teaching goes here
+  #  design:
+  #    columns: '1'  
+  #- block: markdown
+  #  id: cv
+  #  content:
+  #    title: 'CV'
+  #    subtitle: ''
+  #    text: |-
+  #      Will add link to CV
+  #  design:
+  #    columns: '1'             
 ---
