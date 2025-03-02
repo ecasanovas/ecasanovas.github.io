@@ -61,12 +61,7 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-#  - position: Backend Software Engineer
-#    company_name: X
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
+
 
 # Skills
 skills:
