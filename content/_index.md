@@ -36,7 +36,8 @@ sections:
       title: 'Research'
       subtitle: ''
       text: |-
-        Papers go here
+        ## Work in Progress
+        Labor force growth and firm dynamics in the U.S. and Europe
     design:
       columns: '2'
   #- block: markdown
