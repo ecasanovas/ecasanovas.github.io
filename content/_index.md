@@ -41,15 +41,22 @@ sections:
         "Labor force growth and firm dynamics in the U.S. and Europe"
     design:
       columns: '1'
-  #- block: markdown
-  #  id: teaching
-  #  content:
-  #    title: 'Teaching'
-  #    subtitle: ''
-  #    text: |-
-  #      Teaching goes here
-  #  design:
-  #    columns: '1'  
+  - block: markdown
+    id: teaching
+    content:
+      title: 'Teaching'
+      subtitle: ''
+      text: |-
+        **Macroeconomics - ECON0066**
+        UCL MSc, TA for Vincent Sterk  (Fall 2023/2024)
+
+        **Advanced Macroeconomic Theory - ECON0057**
+        UCL MSc, TA for Alan Olivi  (Spring 2022/2023)
+
+        **Macroeconomics - BPEP-UB 2**
+        NYU Stern - London BSc, TA for Julen Esteban-Pretel  (Fall 2022)
+    design:
+      columns: '1'  
   #- block: markdown
   #  id: cv
   #  content:
