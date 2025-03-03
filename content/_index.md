@@ -41,8 +41,6 @@ sections:
     design:
       view: compact
       columns: 2
-      spacing: 2rem
-      align: left
   #- block: markdown
   #  id: teaching
   #  content:
