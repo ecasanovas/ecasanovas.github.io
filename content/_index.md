@@ -47,13 +47,13 @@ sections:
       title: 'Teaching'
       subtitle: ''
       text: |-
-        **Macroeconomics - ECON0066** \
+        **Macroeconomics - ECON0066**  
         UCL MSc, TA for Vincent Sterk  (Fall 2023/2024)
 
-        **Advanced Macroeconomic Theory - ECON0057** \
+        **Advanced Macroeconomic Theory - ECON0057**  
         UCL MSc, TA for Alan Olivi  (Spring 2022/2023)
 
-        **Macroeconomics - BPEP-UB 2** \
+        **Macroeconomics - BPEP-UB 2**  
         NYU Stern - London BSc, TA for Julen Esteban-Pretel  (Fall 2022)
     design:
       columns: '1'  
