@@ -35,7 +35,7 @@ sections:
     content:
       title: 'Research'
       subtitle: ''
-      text: |-
+      text: |- |-
         **Work in Progress** 
 
         "Labor force growth and firm dynamics in the U.S. and Europe"
