@@ -30,15 +30,15 @@ sections:
           # size: cover
           # position: center
           # parallax: false
-  #- block: markdown
-  #  id: research
-  #  content:
-  #    title: 'Research'
-  #    subtitle: ''
-  #    text: |-
-  #      Papers go here
-  #  design:
-  #    columns: '1'
+  - block: markdown
+    id: research
+    content:
+      title: 'Research'
+      subtitle: ''
+      text: |-
+        Papers go here
+    design:
+      columns: '2'
   #- block: markdown
   #  id: teaching
   #  content:
