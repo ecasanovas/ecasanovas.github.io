@@ -40,7 +40,6 @@ sections:
 
         "Labor force growth and firm dynamics in the U.S. and Europe"
     design:
-      view: side-by-side
       columns: '2'
   #- block: markdown
   #  id: teaching
