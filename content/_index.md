@@ -39,7 +39,7 @@ sections:
         Work in Progress:
         "Labor force growth and firm dynamics in the U.S. and Europe"
     design:
-      view: side-by-side
+      view: compact
       columns: 2
       spacing: 2rem
       align: left
