@@ -36,7 +36,7 @@ sections:
       title: 'Research'
       subtitle: ''
       text: |-
-        #### Work in Progress
+        <h4>Work in Progress</h4>
 
         "Labor force growth and firm dynamics in the U.S. and Europe"
     design:
