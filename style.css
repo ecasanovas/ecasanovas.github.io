@@ -27,7 +27,7 @@ body {
 }
 a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; text-underline-offset: 3px; }
-p { margin: 0 0 1em; }
+p { margin: 0 0 1em; text-wrap: pretty; }
 img { max-width: 100%; display: block; }
 
 /* ---------- top bar ---------- */
