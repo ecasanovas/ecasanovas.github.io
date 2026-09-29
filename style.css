@@ -81,11 +81,6 @@ main { max-width: var(--max); margin: 0 auto; padding: calc(var(--topbar-h) + 48
 .name { font-family: var(--serif); font-weight: 500; font-size: 1.6rem; margin: 0 0 4px; }
 .role { margin: 0; color: var(--muted); }
 .affiliation { margin: 0; }
-.email { white-space: nowrap; }
-.icon-mail {
-  width: 1.05em; height: 1.05em; vertical-align: -0.18em; margin-right: 0.35em;
-  fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linejoin: round;
-}
 .contact { list-style: none; padding: 0; margin: 0; font-size: 0.95rem; }
 
 /* research */
