@@ -44,13 +44,13 @@ img { max-width: 100%; display: block; }
   display: flex; align-items: center; justify-content: space-between;
 }
 .brand {
-  font-family: var(--serif); font-size: 1.35rem; font-weight: 500;
+  font-family: var(--serif); font-size: 2rem; font-weight: 500;
   color: var(--ink); letter-spacing: 0.01em;
 }
 .brand:hover { text-decoration: none; }
 .nav-links { list-style: none; margin: 0; padding: 0; display: flex; gap: 32px; }
 .nav-links a {
-  color: var(--muted); font-weight: 500; font-size: 1.05rem;
+  color: var(--muted); font-weight: 500; font-size: 1.2rem;
   letter-spacing: 0.02em; padding: 6px 0;
   border-bottom: 2px solid transparent;
 }
@@ -80,7 +80,12 @@ main { max-width: var(--max); margin: 0 auto; padding: calc(var(--topbar-h) + 48
 .identity { margin-top: 20px; }
 .name { font-family: var(--serif); font-weight: 500; font-size: 1.6rem; margin: 0 0 4px; }
 .role { margin: 0; color: var(--muted); }
-.affiliation { margin: 0 0 12px; }
+.affiliation { margin: 0; }
+.email { white-space: nowrap; }
+.icon-mail {
+  width: 1.05em; height: 1.05em; vertical-align: -0.18em; margin-right: 0.35em;
+  fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linejoin: round;
+}
 .contact { list-style: none; padding: 0; margin: 0; font-size: 0.95rem; }
 
 /* research */
