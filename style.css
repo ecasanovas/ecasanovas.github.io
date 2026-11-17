@@ -95,7 +95,7 @@ main { max-width: var(--max); margin: 0 auto; padding: calc(var(--topbar-h) + 48
 .paper-title { font-family: var(--serif); font-weight: 500; font-size: 1.2rem; margin: 0 0 4px; }
 .paper-meta { color: var(--muted); margin: 0 0 6px; }
 .paper-coauthor { font-family: var(--sans); font-weight: 400; font-size: 1rem; }
-.paper-abstract { font-size: 0.95rem; line-height: 1.55; margin: 6px 0 0; }
+.paper-abstract { font-size: 0.95rem; line-height: 1.55; margin: 6px 0 0; text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
 .paper + .group-title { margin-top: 40px; }
 .paper-tag { font-family: var(--sans); font-weight: 500; font-size: 1.05rem; color: var(--muted); margin-left: 4px; }
 .paper-links { display: flex; flex-wrap: wrap; gap: 8px; }
