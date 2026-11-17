@@ -62,12 +62,12 @@ img { max-width: 100%; display: block; }
 main { max-width: var(--max); margin: 0 auto; padding: calc(var(--topbar-h) + 48px) 24px 48px; }
 .section {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: calc(min(300px, (100% - 48px) / 3) - 48px) 1fr;
   gap: 48px;
   padding: 56px 0;
   border-top: 1px solid var(--hair);
 }
-.section-home { border-top: none; padding-top: 24px; }
+.section-home { border-top: none; padding-top: 24px; grid-template-columns: 1fr 2fr; }
 .section-title {
   font-family: var(--serif); font-weight: 500;
   font-size: 2rem; line-height: 1.15;
@@ -95,6 +95,8 @@ main { max-width: var(--max); margin: 0 auto; padding: calc(var(--topbar-h) + 48
 .paper-title { font-family: var(--serif); font-weight: 500; font-size: 1.2rem; margin: 0 0 4px; }
 .paper-meta { color: var(--muted); margin: 0 0 6px; }
 .paper-coauthor { font-family: var(--sans); font-weight: 400; font-size: 1rem; }
+.paper-abstract { font-size: 0.95rem; line-height: 1.55; margin: 6px 0 0; }
+.paper + .group-title { margin-top: 40px; }
 .paper-tag { font-family: var(--sans); font-weight: 500; font-size: 1.05rem; color: var(--muted); margin-left: 4px; }
 .paper-links { display: flex; flex-wrap: wrap; gap: 8px; }
 .paper-links a, .button {
